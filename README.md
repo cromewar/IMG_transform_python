@@ -1,4 +1,4 @@
-# Jpg to Png Converter using Pillow, python library
+# IMG Converter using Pillow, python library
 
 This script takes all the IMG files from a **folder** and transform them to other file type such as JPEG PNG or Webp.
 
